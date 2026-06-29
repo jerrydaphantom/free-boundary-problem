@@ -182,6 +182,21 @@ The dissertation draws on foundational work in the theory of free boundary probl
 | Jerison and Savin                | Instability criterion and low-dimensional regularity analysis |
 | De Silva and Jerison             | Singular energy-minimizing free boundaries                    |
 
+## Repository Contents
+
+This repository is a public-facing overview of my dissertation rather than a full reproduction of the 45-page LaTeX document.
+
+```text
+README.md
+notes/
+  variational_equations.md
+```
+
+* `README.md` gives a high-level overview of the problem, main theorem, mathematical context, and techniques studied in the dissertation.
+* [`notes/variational_equations.md`](notes/variational_equations.md) gives a short technical taster from Section 2, showing how minimality of the Alt-Caffarelli functional leads to subharmonicity, harmonicity on the positivity set, and the weak free boundary condition.
+
+The full dissertation is not included here.
+
 ## Skills Demonstrated
 
 This dissertation demonstrates experience with:
